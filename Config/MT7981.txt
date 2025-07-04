@@ -1,4 +1,4 @@
-CONFIG_TARGET_mediatek=y
+CONFIG_TARGET_mediatek=n
 CONFIG_TARGET_mediatek_mt7981=n
 CONFIG_TARGET_DEVICE_mediatek_mt7981_DEVICE_abt_asr3000=y
 CONFIG_TARGET_DEVICE_mediatek_mt7981_DEVICE_cetron_ct3003=y
